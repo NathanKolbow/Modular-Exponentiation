@@ -1,4 +1,3 @@
-
 public class ModExp {
 	
 	public static void main(String[] args) {
