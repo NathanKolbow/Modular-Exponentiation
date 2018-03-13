@@ -34,7 +34,7 @@ public class ModExp {
 			realOut[i] = out[i];
 		}
 		
-		return out;
+		return realOut;
 	}
 	
 }
