@@ -1,3 +1,5 @@
+// Math 240 algorithm
+
 public class ModExp {
 	
 	public static void main(String[] args) {
@@ -18,6 +20,7 @@ public class ModExp {
 		System.out.println(x);
 	}
 	
+	// gets the binary expansion in the form of an int[] for the given number
 	public static int[] binaryExpansion(int number) {
 		int[] out = new int[100];
 		int n = 0;
